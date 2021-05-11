@@ -1,0 +1,8 @@
+p {
+    font-size: 10px;
+}
+
+.scroll{
+    max-height: 10em;
+    overflow-y: scroll;
+}
